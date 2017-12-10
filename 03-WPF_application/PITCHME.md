@@ -679,3 +679,9 @@ We handle the exception much like the local one, but with a slightly different t
 ## Summary
 
 Exception handling is a very important part of any application and fortunately, WPF and .NET makes it very easy to handle exceptions both locally and globally. You should handle exceptions locally when it makes sense and only use the global handling as a fallback mechanism, since local handling allows you to be more specific and deal with the problem in a more specialized way.
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

@@ -876,3 +876,9 @@ But perhaps you're in a situation where the comment field is pretty self-explana
 ![A simple contact form using the Grid - take three](http://www.wpf-tutorial.com/chapters/panels/images/grid_contact_form_take3.png "A simple contact form using the Grid - take three")
 
 So as you can see, the Grid is a very powerful panel. Hopefully you can use all of these techniques when designing your own dialogs.
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

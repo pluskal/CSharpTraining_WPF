@@ -942,3 +942,9 @@ When you need to obtain the password from the PasswordBox, you can use the **Pas
 +++
 
 This may or may not be important to you - as already stated, you can still read the password from Code-behind, but for MVVM implementations or if you just love data bindings, a workaround has been developed. You can read much more about it [here](http://blog.functionalfun.net/2008/06/wpf-passwordbox-and-data-binding.html).
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

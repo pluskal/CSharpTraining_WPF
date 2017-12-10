@@ -65,3 +65,9 @@ The following is a completely subjective list of the key advantages for WPF and 
 *   It's older and thereby more tried and tested
 *   There are already a lot of 3rd party controls that you can buy or get for free
 *   The designer in Visual Studio is still, as of writing, better for WinForms than for WPF, where you will have to do more of the work yourself with WPF
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

@@ -178,3 +178,9 @@ Download sample
 ![Using the TextRenderingMode property](http://www.wpf-tutorial.com/chapters/control-concepts/images/textrenderingmode.png "Using the TextRenderingMode property")
 
 As you can see, the resulting text differs quite a bit in how it looks and once again, you should mainly change this in special circumstances.
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

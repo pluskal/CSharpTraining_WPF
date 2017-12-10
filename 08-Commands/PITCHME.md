@@ -356,3 +356,9 @@ As already explained, we implement our Exit command as a field on a static Custo
 ## Summary
 
 Implementing custom WPF commands is almost as easy as consuming the built-in commands, and it allows you to use commands for every purpose in your application. This makes it very easy to re-use actions in several places, as shown in the example of this chapter.
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

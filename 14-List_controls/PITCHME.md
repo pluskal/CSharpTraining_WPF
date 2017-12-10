@@ -811,3 +811,9 @@ In the third event handler, we use the SelectedItem to select a specific item ba
 In the fourth and last event handler, I respond to the selected item being changed. When that happens, I read the selected color (once again using Reflection, as described above) and then use the selected color to create a new background brush for the Window. The effect can be seen on the screenshot.
 
 If you're working with an editable ComboBox (IsEditable property set to true), you can read the **Text** property to know the value the user has entered or selected.
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

@@ -1096,3 +1096,9 @@ The txtFilter_TextChanged event is also important. Each time the text changes, w
 ## Summary
 
 This was a pretty simple implementation, but since you get access to each item, in this case of the User class, you can do any sort of custom filtering that you like, since you have access to all of the data about each of the items in the list. For instance, the above example could easily be changed to filter on age, by looking at the Age property instead of the Name property, or you could modify it to look at more than one property, e.g. to filter out users with an age below X AND a name that doesn't contain "Y".
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

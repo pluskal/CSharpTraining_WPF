@@ -81,3 +81,9 @@ Try running the application now (select Debug -> Start debugging or press **F5**
 You will notice that we used three different attributes on the TextBlock to get a custom alignment (in the middle of the window), as well the FontSize property to get bigger text. All of these concepts will be treated in later articles.
 
 Congratulations on making it this far. Now go read the rest of the tutorial and soon you will master WPF!
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

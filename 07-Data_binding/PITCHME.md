@@ -892,3 +892,9 @@ In the markup, we add a reference to our converter in the window resources and t
 If you run the example, you will see that the debugger breaks as soon as WPF tries to fetch the value for the title of the window. You can now inspect the values given to the Convert() method, or even change them before proceeding, using the standard debugging capabilities of Visual Studio.
 
 If the debugger never breaks, it means that the converter is not used. This usually indicates that you have an invalid binding expression, which can be diagnosed and fixed using the methods described in the start of this article. The dummy-converter trick is only for testing valid binding expressions.
+
+---
+
+# Acknowledgment
+
+Material is based on [WPF-Tutorial](http://www.wpf-tutorial.com/).

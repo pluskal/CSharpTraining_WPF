@@ -708,7 +708,7 @@ If you need to output a bound value in accordance with a specific culture, that'
 
 It's pretty simple: By combining the StringFormat property, which uses the D specifier (Long date pattern) and the ConverterCulture property, we can output the bound values in accordance with a specific culture. Pretty nifty!
 
-+++
+---
 
 # Debugging data bindings
 

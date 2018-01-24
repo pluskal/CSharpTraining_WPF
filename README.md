@@ -9,3 +9,7 @@
 * [08-Commands](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=08-Commands)
 * [14-List_controls](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=14-List_controls)
 * [15-ListView_control](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=15-ListView_control)
+* [16-TreeView_control](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=16-TreeView_control)
+* [17-DataGrid_control](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=17-DataGrid_control)
+* [18-Styles](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=18-Styles)
+* [19-DispatcherTime_BackgroundWorker](https://gitpitch.com/pluskal/CSharpTraining_WPF/master?p=19-DispatcherTime_BackgroundWorker)
